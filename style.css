@@ -62,6 +62,7 @@ nav ul li a {
     height: 500px;
     margin: auto;
     overflow: hidden;
+    flex-wrap: wrap;
    
 }
 
@@ -152,6 +153,7 @@ h1 {
     margin-left: 00px;
     justify-content: center;
     flex-direction: row;
+    flex-wrap: wrap;
     }
 
 
@@ -169,6 +171,7 @@ transition-property: all;
 transform: scale(1);
 transition-timing-function: linear;
 transition-duration: 0.1s;
+flex-wrap: wrap;
 }   
 
 .mob1 p {
@@ -189,6 +192,7 @@ justify-content: center;
 flex-direction: row;
 margin-left: 20px;
 margin-right: 20px;
+flex-wrap: wrap;
 
 }
 
@@ -206,7 +210,7 @@ transition-property: all;
 transform: scale(1);
 transition-timing-function: linear;
 transition-duration: 0.1s;
-
+flex-wrap: wrap;
 }   
 
 .mob2 p {
@@ -227,6 +231,7 @@ margin-left: 00px;
 justify-content: center;
 flex-direction: row;
 margin:0 20px;
+flex-wrap: wrap;
 
 }
 
@@ -244,6 +249,7 @@ transition-property: all;
 transform: scale(1);
 transition-timing-function: linear;
 transition-duration: 0.1s;
+flex-wrap: wrap;
 
 }   
 
